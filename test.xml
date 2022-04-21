@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+<class>
+    <student rollno="101">
+        <firstname>PPP</firstname>
+        <lastname>LLL</lastname>
+        <nickname>JJJ</nickname>
+        <marks>85</marks>
+    </student>
+    <student rollno="102">
+        <firstname>AAA</firstname>
+        <lastname>CCC</lastname>
+        <nickname>DDD</nickname>
+        <marks>95</marks>
+    </student>
+    <student rollno="103">
+        <firstname>KKK</firstname>
+        <lastname>LLL</lastname>
+        <nickname>WWW</nickname>
+        <marks>90</marks>
+    </student>
+</class>
